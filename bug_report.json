@@ -1,1 +1,16 @@
-
+{
+  "Environment":"Android",
+  "ID":1 ,
+  "Summary":"<What?Where?Why?>",
+  "STEPS":{
+          "Step1":"Install app",
+          "Step2":"Open App",
+		  "Step3":"Tap Register button",
+		  "Step4":"Input Email",
+		  "Step5":"Input Password",
+		  "Step5":"Tap Register",                 
+        },
+  "Expected Result":"Registration Sucessful!",
+  "Actual Result":"Registration Sucessful!",
+  "Attachments":"<link>"
+}
