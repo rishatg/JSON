@@ -1,7 +1,6 @@
 {
   "Environment":"Android",
   "ID":1 ,
-  "Summary":"<What?Where?Why?>",
   "STEPS":{
           "Step1":"Install app",
           "Step2":"Open App",
